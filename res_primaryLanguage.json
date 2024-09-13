@@ -385,8 +385,20 @@
         "details":"Nearsure collaborated with Branch to enhance their software platform by improving user engagement, scalability, and performance. My responsibilities included managing and enhancing the front-end capabilities using technologies like React, Redux, and TypeScript, and developing a dynamic user dashboard for policy management and claim tracking. I optimized the application’s performance through techniques like code splitting and lazy loading, ensured consistent application state with Redux, and implemented dynamic routing to improve navigation. Additionally, I conducted extensive debugging using Jest and React Testing Library, utilized AWS for hosting and deploying, and coordinated with cross-functional teams to meet project milestones in an Agile environment."
       },
       {
-        "company": "OpenxCell",
+        "company": "Siemens",
         "title": "Full Stack Engineer",
+        "years": "07.2021 - 07.2022",
+        "mainTech": [
+          "ReactJs",
+          "Next.js",
+          "MySQL",
+          "AWS"
+        ],
+        "details":"As a Full Stack Developer at Siemens, Maharashtra, India, from July 2021 to July 2022, I played a key role in enhancing Siemens’ Industrial IoT and Smart Infrastructure platforms. I contributed to building responsive dashboards, optimizing backend services, and implementing predictive analytics, all while ensuring compliance with industry standards. By improving real-time data visualization and developing tools like a predictive analytics dashboard and an interactive configuration system, I reduced response times by 30% and equipment downtime by 20%. I also utilized Next.js for server-side rendering, improving load times and SEO, and leveraged AWS services for the CI/CD pipeline, significantly boosting platform performance and user engagement. "
+      },
+      {
+        "company": "OpenxCell",
+        "title": "FrontEnd Developer",
         "years": "06.2020 - 07.2022",
         "mainTech": [
           "ReactJs",
