@@ -384,7 +384,7 @@
           "Java",
           "Testing"
         ],
-        "details":"Developed the Community Program feature, boosting user activity by 35% and referral-based revenue by 20%, while optimizing the frontend with React, TypeScript, and GraphQL, reducing API payload size by 45%. Implemented lazy loading, code splitting, and Jest (98% test coverage), improving LCP by 45% for better performance and user experience."
+        "details":"Built customer-facing encryption features to make Amazon Transcribe Batch compliant with Customer Managed Keys (CM-CMK), enabling secure, user-controlled data protection at scale.Delivered production-ready React/TypeScript features with robust testing, on-call support, and SLA-driven incident resolution in a high-impact, customer-focused environment."
       },
       {
         "company": "Antra Inc.",
