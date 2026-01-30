@@ -374,6 +374,19 @@
     ],
     "experience": [
       {
+        "company": "Amazon Inc.",
+        "title": "Software Dev Engineer",
+        "years": "05.2025 - Present",
+        "mainTech": [
+          "React.js",
+          "Javascript",
+          "Typescript",
+          "Java",
+          "Testing"
+        ],
+        "details":"Developed the Community Program feature, boosting user activity by 35% and referral-based revenue by 20%, while optimizing the frontend with React, TypeScript, and GraphQL, reducing API payload size by 45%. Implemented lazy loading, code splitting, and Jest (98% test coverage), improving LCP by 45% for better performance and user experience."
+      },
+      {
         "company": "Antra Inc.",
         "title": "Web Developer",
         "years": "07.2024 - 01.2025",
